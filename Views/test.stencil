@@ -1,0 +1,13 @@
+<!doctype html>
+<html>
+<head>
+    <meta charset="utf-8">
+	<title>Swift Forums</title>
+    <link rel="stylesheet" type="text/css" href="/static/styles/default-theme.css">
+</head>
+<body>
+	<h1>Hello test!</h1>
+	<h2>Test: {{ test }}</h2>
+	<h2>Test: {{ test | time }}</h2>
+</body>
+</html>
